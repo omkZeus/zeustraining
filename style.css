@@ -1,0 +1,32 @@
+body{
+    background-color: #ffffd2
+}
+
+h1{
+     color: #ffffd2;
+     background-color: #a00b0b;
+     text-align: center;
+     font-style: italic;
+     border-bottom: 20px solid red;
+     letter-spacing: 9pt;
+}
+h2{
+     color: #ffffff;
+     background-color: #0bac49;
+
+}
+ul{
+    font-style: italic;
+    color:#a00b0b
+}
+img{
+    width: 200px;
+    border: 3px dashed rgb(223, 217, 217)
+}
+
+h4{
+    color: grey
+}
+table{
+    background-color: rgb(187, 182, 182);
+}
